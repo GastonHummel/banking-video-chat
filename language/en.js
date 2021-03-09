@@ -57,7 +57,7 @@ var Translations = {
       icon: 'share'
     },
     button3: {
-      url: 'https://bot.dcsdemo.nl/home',
+      url: 'https://persons.dcsdemo.nl/home',
       label: 'Mortgage\nDocuments',
       icon: 'website'
     },
