@@ -97,7 +97,7 @@ var Translations = {
       label: 'Intro Forbearance',
       states: [
         {
-          cardId: '2b800411',
+          cardId: '5e2b69f7',
           width: 40
         }
       ]
@@ -106,16 +106,16 @@ var Translations = {
       label: 'Overview &amp; Calculator',
       states: [
         {
-          cardId: '321a4f9c',
+          cardId: '2b800411',
           width: 30
         }
       ]
     },
     {
-      label: 'End',
+      label: 'Summary',
       states: [
         {
-          cardId: 'e7eeadd7',
+          cardId: '321a4f9c',
           width: 30
         }
       ]
