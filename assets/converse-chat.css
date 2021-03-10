@@ -87,7 +87,7 @@
   overflow: auto;
 }
 .pb-adjust-message-wrapper {
-  height: calc(100% - 150px) !important;
+  height: calc(100% - 185px) !important;
 }
 .pb-chat-popup-messages-footer {
   height: 60px;
