@@ -94,7 +94,7 @@ var Translations = {
    */
   ChapterSettings: [
     {
-      label: 'Intro Forbearance',
+      label: 'Forbearance Intro',
       states: [
         {
           cardId: '5e2b69f7',
